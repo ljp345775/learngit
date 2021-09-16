@@ -1,0 +1,6 @@
+// 这个是配置文件
+public class Test(){
+	public static main(){
+		System.out.println("hello，world");
+	}
+}

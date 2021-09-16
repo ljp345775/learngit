@@ -7,3 +7,4 @@ this is a master and dev test
 pppoooiii
 assddf
 新增了version.gradle
+新增了build.gradle
