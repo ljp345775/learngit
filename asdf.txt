@@ -6,3 +6,4 @@ this is newadd
 this is a master and dev test
 pppoooiii
 assddf
+新增了version.gradle
